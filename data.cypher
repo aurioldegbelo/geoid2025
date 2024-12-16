@@ -24,5 +24,5 @@ CREATE
 (sachsenanhalt_geom) -[:TOUCHES]-> (niedersachsen_geom),
 (sachsenanhalt_geom) -[:TOUCHES]-> (sachsen_geom),
 
-(niedersachsen_geom) -[:TOUCHES]-> (sachsenanhalt_geom)
+(niedersachsen_geom) -[:TOUCHES]-> (sachsenanhalt_geom),
 (bayern_geom) -[:TOUCHES]-> (sachsen_geom)
