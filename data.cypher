@@ -1,8 +1,8 @@
 CREATE 
 // Entities: States
-(sachsen:State {name: 'Saxony', population: 18139116, area: 34110.26, state_capital: 'Dresden'}), 
-(sachsenanhalt:State {name: 'Saxony-Anhalt', population: 6391360, area: 21114.94, state_capital: 'Wiesbaden'}), 
-(bayern:State {name: 'Bayern', population: 4159150, area: 19854.21, state_capital: 'Munich'}), 
+(sachsen:State {name: 'Saxony', population: 4077937, area: 18415.66, state_capital: 'Dresden'}), 
+(sachsenanhalt:State {name: 'Saxony-Anhalt', population: 2186643, area: 20451.7, state_capital: 'Magdeburg'}), 
+(bayern:State {name: 'Bavaria', population: 13369393, area: 70550.19, state_capital: 'Munich'}), 
 (niedersachsen:State {name: 'Lower-Saxony', population: 8140242, area: 47709.82, state_capital: 'Hannover'}),
 
 // Entities: Geometries
