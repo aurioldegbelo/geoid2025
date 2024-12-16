@@ -19,7 +19,7 @@ CREATE
 
 // Relationships Geometry-Geometry
 (sachsen_geom) -[:TOUCHES]-> (sachsenanhalt_geom),
-(sachsen_geom) -[:TOUCHES]-> (bayern_geom)
+(sachsen_geom) -[:TOUCHES]-> (bayern_geom),
 
 (sachsenanhalt_geom) -[:TOUCHES]-> (niedersachsen_geom),
 (sachsenanhalt_geom) -[:TOUCHES]-> (sachsen_geom),
